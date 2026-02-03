@@ -58,34 +58,6 @@ Visual autoregressive (VAR) models generate images through next-scale prediction
 <img src="assets/graphs.png" width=96%>
 <p>
 
-## 🛠️ SetUp
-
-### Class Conditional (🏷️ ➔ 🖼️)
-
-#### VAR
-
-```bash
-cd VAR
-pip install -r requirements.txt
-```
-For detailed VAR setup instructions, please refer to [VAR Setup](./VAR/README.md).
-
-### Text Conditional (📝 ➔ 🖼️)
-
-#### HART
-```bash
-cd hart
-pip install -r requirements.txt
-```
-For detailed HART setup instructions, please refer to [HART Setup](./hart/README.md).
-
-#### Infinity
-```bash
-cd Infinity
-pip install -r requirements.txt
-```
-
-For detailed Infinity setup instructions, please refer to [Infinity Setup](./Infinity/README.md).
 
 ## 📖 Citation
 
@@ -106,8 +78,3 @@ If this project provided insights or was helpful to your research, please give u
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
-This codebase is also built upon the following open-source projects, which are licensed under the MIT License. We thank the authors for their contributions.
-* [VAR](https://github.com/FoundationVision/VAR) - Licensed under MIT (see [var/LICENSE](./var/LICENSE))
-* [HART](https://github.com/mit-han-lab/hart) - Licensed under MIT (see [hart/LICENSE](./hart/LICENSE))
-* [Infinity](https://github.com/FoundationVision/Infinity) - Licensed under MIT (see [infinity/LICENSE](./infinity/LICENSE))
