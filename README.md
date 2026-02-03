@@ -27,7 +27,9 @@
 
 ## 📣 Update Logs
 
-- Jan 30, 2026: Initial code release
+- Code coming soon...⭐️
+
+- Feb 3, 2026: Public repository launch
 
 - Jan 26, 2026: 🎉 SSG has been accepted to ICLR 2026. 🎉
 
