@@ -8,9 +8,6 @@
 
 </div>
 
-<p align="center" style="font-size: larger;">
-  <a href="https://arxiv.org/abs/2602.05534">SSG: Scaled Spatial Guidance for Multi-Scale Visual Autoregressive Generation</a>
-</p>
 
 <div>
   <p align="center" style="font-size: larger;">
