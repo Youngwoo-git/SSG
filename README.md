@@ -9,11 +9,6 @@
 </div>
 
 
-<div>
-  <p align="center" style="font-size: larger;">
-    <strong>ICLR 2026</strong>
-  </p>
-</div>
 
 <p align="center">
 <img src="assets/main.png" width=96%>
