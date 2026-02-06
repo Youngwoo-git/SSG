@@ -3,6 +3,7 @@
 <div align="center">
 
 [![OpenReview](https://img.shields.io/badge/OpenReview-paper-blue)](https://openreview.net/forum?id=S6oLw7VixT)&nbsp;
+[![arXiv](https://img.shields.io/badge/arXiv-2602.05534-b31b1b.svg)](https://arxiv.org/abs/2602.05534)&nbsp;
 <!-- [![huggingface weights](https://img.shields.io/badge/%F0%9F%A4%97%20Weights-FoundationVision/var-yellow)](https://huggingface.co/FoundationVision/var)&nbsp; -->
 
 </div>
@@ -68,10 +69,10 @@ If this project provided insights or was helpful to your research, please give u
       title={SSG: Scaled Spatial Guidance for Multi-Scale Visual Autoregressive Generation}, 
       author={Youngwoo Shin and Jiwan Hur and Junmo Kim},
       year={2026},
-      eprint={2601.XXXXX},
+      eprint={2602.05534},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2601.XXXXX}, 
+      url={https://arxiv.org/abs/2602.05534}, 
 }
 ```
 
